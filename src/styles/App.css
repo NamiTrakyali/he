@@ -1,0 +1,14 @@
+.App{ background-color:#121C20;
+overflow-y:scroll;
+
+}
+
+.App::-webkit-scrollbar {
+    display: none;
+  }
+
+.App{
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600;800&display=swap');
